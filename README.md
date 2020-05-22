@@ -1,0 +1,2 @@
+# azureExcercise
+Azure services learning
